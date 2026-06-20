@@ -10,12 +10,12 @@
 )
 
 // Blatt 1 importieren
-//#include "blatt_1.typ"
+//#include "blatt/blatt_1.typ"
 
 // Wechsel zu Blatt 2 (setzt intern die Nummer hoch und macht einen Seitenumbruch)
 //#naechstes-blatt(2)
-//#include "blatt_2.typ"
+//#include "blatt/blatt_2.typ"
 
-// Wechsel zu Blatt 3
-//#naechstes-blatt(3)
-//#include "blatt_5.typ"
+// Wechsel zu Blatt 5
+//#naechstes-blatt(5)
+//#include "blatt/blatt_5.typ"
